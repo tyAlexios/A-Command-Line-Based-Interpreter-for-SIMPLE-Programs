@@ -21,7 +21,7 @@ In a nutshell, Simple supports only two data types, namely bool and int: Values 
 
 3. Command: unexpr expName uop expRef1
    Effect: 
-     Defines a new unary expression with a unique name expName. The new expression’s unary operator is uop, and its operand is an expression reference expRef1. The        following two unary operators can be applied to int values: # and ~ (equivalent to unary + and - in Java). The following one unary operator can be applied to bool      values: !.
+     efines a new unary expression with a unique name expName. The new expression’s unary operator is uop, and its operand is an expression reference expRef1. The        following two unary operators can be applied to int values: # and ~ (equivalent to unary + and - in Java). The following one unary operator can be applied to bool      values: !.
    Example: unexpr exp2 ~ exp1
 
 4. Command: assign lab varName expRef
