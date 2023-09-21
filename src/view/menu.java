@@ -19,7 +19,7 @@ public class menu
         System.out.println("----------------------------------------------------------------------------");
         System.out.println("Warning: Each statement in a Simple program is identified by a unique label");
         System.out.println("Warning: Each variable or expression is identified by a unique name");
-        System.out.println("Enter \"help\" for search all command");
+        System.out.println("Enter \"help\" for searching all command");
         System.out.println("Enter command after \">>>\"");
         System.out.println("----------------------------------------------------------------------------");
 
